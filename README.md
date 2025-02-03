@@ -4,7 +4,7 @@ I'm a passionate Data Analytics/BI Development with a love for exploring and und
 
 ## About Me ✍
 
-- 🔭 I’m currently working as a Power BI Developer, shaping digital landscapes and facilitating seamless development and automation processes.
+- 🔭 I’m currently working as a Power BI Developer, shaping digital landscapes and facilitating seamless development and actionable Insights.
 - 🌱 I’m currently on a journey to master time management and boost productivity to new heights.
 - 👯 I’m always open to collaborating on innovative ideas that excite and inspire me.
 - 💬 Feel free to ask me about anything related to ETL Development, Data Visualization, technology, or productivity!
