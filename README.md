@@ -1,13 +1,13 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://linkedin.com/in/snehil66">Snehil Gupta</a>
 
-I'm a passionate Cloud & DevOps Engineer with a love for exploring and understanding the core concepts behind different popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
+I'm a passionate Data Analytics/BI Development with a love for exploring and understanding the core concepts behind different popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
 
 ## About Me ✍
 
-- 🔭 I’m currently working as a Cloud & DevOps Engineer, shaping digital landscapes and facilitating seamless development and deployment processes.
+- 🔭 I’m currently working as a Power BI Developer, shaping digital landscapes and facilitating seamless development and automation processes.
 - 🌱 I’m currently on a journey to master time management and boost productivity to new heights.
 - 👯 I’m always open to collaborating on innovative ideas that excite and inspire me.
-- 💬 Feel free to ask me about anything related to Cloud, DevOps, technology, or productivity!
+- 💬 Feel free to ask me about anything related to ETL Development, Data Visualization, technology, or productivity!
 - 😄 Pronouns: He/Him
 
 ## My Toolbox 🧰
