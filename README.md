@@ -1,6 +1,6 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://linkedin.com/in/snehil66">Snehil Gupta</a>
 
-I'm a passionate Data Analytics/BI Development with a love for exploring and understanding the core concepts behind different popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
+I am a passionate Data Analyst and BI Developer professional with a love for exploring and understanding the core concepts behind various popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
 
 ## About Me ✍
 
@@ -14,35 +14,28 @@ I'm a passionate Data Analytics/BI Development with a love for exploring and und
 
 Here are some of the tools and technologies I work with:
 
-- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, GitLab CI/CD, GitHub Actions
-- **Containerization and Orchestration:** Docker, Kubernetes
-- **Infrastructure as Code (IaC):** Terraform, Ansible
-- **Monitoring and Logging:** Prometheus, Grafana, ELK Stack
-- **Cloud Platforms:** AWS, Azure, Google Cloud Platform
-- **Version Control:** Git
+- **Databases:** Snowflake, SQL Server, MySQL
+- **Language & Scripting:** Python 
+- **Data Visualization Tool:** Power BI and Tableau
+- **Cloud Platforms:** MS Azure, Google Cloud Platform
+- **Version Control:** GitHub
 
 ## Let's Connect 🤝
 
-<a href="https://twitter.com/aman_0fficial">
-  <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://x.com/SnehilG41786197">
+  <img align="left" alt="Snehil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/~amankesarwani">
-  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/snehil66">
+  <img align="left" alt="Snehil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Amankesarwani2202">
-  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/snehil66">
+  <img align="left" alt="Snehil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/aman_kesarwani">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https:/www.instagram.com/snehil__66/">
+  <img align="left" alt="Snehil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/aman_0fficial/">
-  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/aman0fficial">
-  <img align="left" alt="Aman's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://tinyurl.com/LGMYOUTUBE">
-  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.facebook.com/teapositve">
+  <img align="left" alt="Snehil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
 
