@@ -31,7 +31,7 @@ Here are some of the tools and technologies I work with:
 <a href="https://github.com/snehil66">
   <img align="left" alt="Snehil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https:/www.instagram.com/snehil__66/">
+<a href="https://www.instagram.com/snehil__66/">
   <img align="left" alt="Snehil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/teapositve">
