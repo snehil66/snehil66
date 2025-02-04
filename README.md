@@ -1,4 +1,4 @@
-## Hi <developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://linkedin.com/in/snehil66">Snehil Gupta</a>
+## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://linkedin.com/in/snehil66">Snehil Gupta</a>
 
 I am a passionate Data Analyst and BI Developer professional with a love for exploring and understanding the core concepts behind various popular technological fields. With a firm belief in the power of new beginnings, I approach each day as an opportunity to learn and grow.
 
